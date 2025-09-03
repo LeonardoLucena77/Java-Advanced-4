@@ -45,11 +45,17 @@ Professores devem ter acesso completo ao repositório.
 
 📊 Critérios de Avaliação
 Critério	Pontuação
-a) Apresentação do cronograma com responsáveis e prazos por atividade	até 5 pts
+a) Apresentação do cronograma com responsáveis e prazos por atividade	até 5 pts 
+
 b) Diagramas (Arquitetura, Classes de Domínio, DER, etc) + breve explicação dos relacionamentos	até 10 pts
+
 c) Implementação das entidades com encapsulamento, tipagem correta e mapeamento JPA/Hibernate	até 40 pts
+
 d) Conformidade com os conceitos RESTful e Maturidade de Richardson	até 15 pts
+
 e) Gestão de Configuração (GitHub com todos os artefatos e acesso liberado)	até 10 pts
+
 f) Projeto público no GitHub contendo: documentação, código, README.md e vídeo de apresentação	até 10 pts
+
 g) Testes documentados com exportações do Postman ou Insomnia e validação do correto funcionamento	até 10 pts
 # 100 pts
