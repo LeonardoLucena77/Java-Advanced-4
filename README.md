@@ -37,11 +37,6 @@ Exportação das requisições para validação pelo professor.
 
 Garantia de persistência e recuperação correta dos dados.
 
-💻 Gestão de Configuração
-
-Todos os artefatos devem estar disponíveis em um repositório público no GitHub.
-
-Professores devem ter acesso completo ao repositório.
 
 📊 Critérios de Avaliação
 Critério	Pontuação
